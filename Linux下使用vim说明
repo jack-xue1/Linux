@@ -23,4 +23,14 @@ CTRL+S表示停止向终端输出; CTRL+Q恢复向终端输出.
 14.history 查看输入所有命令
 15.！n选择执行的第n条命令
 16.:line 指定光标跳转到某行
+17.
+1.范例:如果指令串太长的话,如何使用两行来输出?
+[dmtsai@study ~]$ cp /var/spool/mail/root /etc/crontab \
+> /etc/fstab /root
+“\Enter” （\加键盘回车）即可实现
+
+2.ctrl+u   ctrl+k   分别代表光标处往前和光标处往后删除
+
+3.ctrl+a   ctrl+e   分别代表把管标移动到最前和最后
+18. ctrl+d 关闭终端 
 
