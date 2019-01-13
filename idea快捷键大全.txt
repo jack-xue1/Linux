@@ -69,3 +69,26 @@ Ctrl + Alt + Enter 在当前行上面开启新的一行
 Ctrl + G 跳转到指定行
 
 ctr + shift + u 大小写转化
+
+shift +end 选择光标到行结束位置
+
+shift+home选择光标到行开始部分
+shift+pageup 选择光标到选择段落开始部分
+
+ctrl+shift+m 查看对应括号部分
+ctrl shift pageup 选择光标之前所有内容
+ctrl shift pagedown 选择光标之后所有内容
+
+ctrl shift home 选择光标之前所有内容(不管段落)
+ctrl shift end 选择光标之后所有内容(不管段落)
+
+pagedown 光标移至到尾
+
+ctrl pagedown 移到选择部分的段尾
+
+crtl 右箭头 表示移到下个单词 代码处
+
+ctrl M 回到光标处
+ctrl enter 拆分
+
+\
