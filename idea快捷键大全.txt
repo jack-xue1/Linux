@@ -115,8 +115,16 @@ crrt+shift+r 全局替换
 alt+shift+c 最近修改内容
 alt+上下箭头 在方法之中进行切换
 
+crtl+shift+w 缩小制定范围 跟crtl+w相反
+
 win10自带输入法
 crtl+shift+b 打出表情内容出来
+
+ctrl+shift+p 选择表达式返回类型 
+
+
+
+
 
 
 
