@@ -109,7 +109,29 @@ crtl+delete 选中光标后单词进行删除
 crtl+blankspace选中光标前单词进行删除
 crtl+M 回到光标所在位置
 crtl+enter 往下面加一行
-crrt+shift+w 缩小现在部分内容
+crtl+shift+w 缩小现在部分内容
+ctrl+shift+delete 去掉被包围的块 
+
+crtl+alt+enter 在当前行加入新行
+
+alt+shift+insert 多行编辑
+shift+tab 退个tab距离 
+crtl+shift+z 快进
+crtl+alt+N 整合子父类 或者接口和实现类
+crtl+alt+M 方法重构
+
+crtl+shift+I 快速找到方法或者变量定义
+
+crtl+shift+p 选择区域查询返回参数类型 
+alt+j 查找指定内容
+crtl+shift+r 全局替换
+crtl+F7 查找在当前文件引用
+crtl+shift+F7 查找在当前文件引用并且高亮显示
+
+
+crtl+` 变化视图 
+
+
 
 alt+F7 查看哪里被引用
 alt+F7+shift 具体引用的用法
