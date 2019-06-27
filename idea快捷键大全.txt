@@ -102,7 +102,7 @@ crtl+alt+v 重构方法返回值表达式
 
 Ctrl+U，转到父类
 
-crtl+. 选择查找项 并且折腾
+crtl+. 选择查找项 并且折叠
 crtl+] 选中光标 到代码块结束位置
 crtl+shift+] 选中代码块 连带位置到代码块结束部分 同理可以知道ctrl+[了
 crtl+delete 选中光标后单词进行删除
@@ -154,16 +154,21 @@ Alt+/ 进行完成代码编写 并且相同部分提示进行高亮处理
 crtl shift F7 选地指定内容 查找文件中出现的所有部分光亮显示 
 
 
- 
-
-=======
 ctrl+shift+p 选择表达式返回类型 
 
+crtl+alt+i 自动代码缩进 
+
+
+idea:增加配置
+apperance:
+smooth  scrolling
+
+快捷键增加设置
 
 
 
 
->>>>>>> 5f352064d6fd08cf7dfe6e4da9b6d4701f019ded
+
 
 
 
