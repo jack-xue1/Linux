@@ -144,7 +144,6 @@ crtl+shift+w 缩小制定范围 跟crtl+w相反
 win10自带输入法
 crtl+shift+b 打出表情内容出来
 
-<<<<<<< HEAD
 crtl+. 进行折叠代码
 
 alt+shift 鼠标指定区域进行选取
@@ -158,10 +157,27 @@ ctrl+shift+p 选择表达式返回类型
 
 crtl+alt+i 自动代码缩进 
 
+shift+F6 重命名变量等
+
+crtl+alt+v 提取复杂变量里面的内容 进行提取赋值
+
+Ctrl+Shift+F7 高亮查找内容
+F3 跳转到每个查找内容
 
 idea:增加配置
 apperance:
 smooth  scrolling
+
+Appearance page. 显示方法分割线
+ctrl+shift+j快捷键将两行连接成一行
+debug run to cursor 运行到光标处
+
+断点增加条件 进行判断内容 
+
+选中thread  开启线程模式 只针对当前线程进行处理 
+force return 直接 强制退出 比如update 数据的时候 就不会导致数据库变化
+
+
 
 快捷键增加设置
 
