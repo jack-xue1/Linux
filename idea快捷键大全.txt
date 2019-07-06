@@ -179,6 +179,11 @@ force return 直接 强制退出 比如update 数据的时候 就不会导致数
 
 快捷键增加设置
 
+crtl+L 转移到下一个查找内容
+
+rename file 阔以进行设置
+
+
 
 
 
