@@ -177,8 +177,6 @@ debug run to cursor 运行到光标处
 选中thread  开启线程模式 只针对当前线程进行处理 
 force return 直接 强制退出 比如update 数据的时候 就不会导致数据库变化
 
-
-
 快捷键增加设置
 
 
