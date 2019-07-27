@@ -1,4 +1,4 @@
-﻿
+﻿crtl+alt+M 抽取出方法
 
  Alt+F1 项目结构
  Shift + Esc将焦点移动到编辑器并隐藏当前（或最后一个活动的）工具窗口。
@@ -118,7 +118,7 @@ alt+shift+insert 多行编辑
 shift+tab 退个tab距离 
 crtl+shift+z 快进
 crtl+alt+N 整合子父类 或者接口和实现类
-crtl+alt+M 方法重构
+
 
 crtl+shift+I 快速找到方法或者变量定义
 
